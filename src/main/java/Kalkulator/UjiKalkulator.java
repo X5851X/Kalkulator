@@ -8,7 +8,7 @@ package Kalkulator;
 
 /**
  *
- * @author Risvandiani
+ * @author R
  */
 public class UjiKalkulator {
     public static void main(String[] args) {
