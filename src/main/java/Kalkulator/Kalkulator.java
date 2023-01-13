@@ -9,7 +9,7 @@ package Kalkulator;
 
 /**
  *
- * @author Risvandiani
+ * @author R
  */
 public class Kalkulator {
     double Operan1, Operan2;
